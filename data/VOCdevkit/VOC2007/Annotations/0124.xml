@@ -1,0 +1,26 @@
+<annotation>
+	<folder>n95</folder>
+	<filename>images.jpeg</filename>
+	<path>/Users/xuefeiliu/Desktop/n95/images.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>225</width>
+		<height>225</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>face_mask_n95</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>30</xmin>
+			<ymin>27</ymin>
+			<xmax>173</xmax>
+			<ymax>171</ymax>
+		</bndbox>
+	</object>
+</annotation>

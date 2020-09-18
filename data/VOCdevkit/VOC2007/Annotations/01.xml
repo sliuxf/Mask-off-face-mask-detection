@@ -1,0 +1,26 @@
+<annotation>
+	<folder>n95</folder>
+	<filename>WX20200526-221147@2x.png</filename>
+	<path>/Users/xuefeiliu/Desktop/n95/WX20200526-221147@2x.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>362</width>
+		<height>350</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>face_mask_n95</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>96</xmin>
+			<ymin>37</ymin>
+			<xmax>306</xmax>
+			<ymax>319</ymax>
+		</bndbox>
+	</object>
+</annotation>

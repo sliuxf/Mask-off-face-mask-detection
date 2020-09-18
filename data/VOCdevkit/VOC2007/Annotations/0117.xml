@@ -1,0 +1,26 @@
+<annotation>
+	<folder>n95</folder>
+	<filename>joe7.jpeg</filename>
+	<path>/Users/JoeCheung/Desktop/432DeepLearning/Project/n95/joe7.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>192</width>
+		<height>262</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>face_mask_n95</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>34</xmin>
+			<ymin>48</ymin>
+			<xmax>151</xmax>
+			<ymax>211</ymax>
+		</bndbox>
+	</object>
+</annotation>
